@@ -50,11 +50,27 @@ http://cdc77.cc:80/9146479502/16693/319.ts
 http://cdc77.cc:80/9146479502/16693/345.ts
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD]" tvg-logo="http://cc90.one/APJ" group-title="Canais | Filmes e Séries",TLC [FHD]
 http://cdc77.cc:80/9146479502/16693/286.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD][H265]" tvg-logo="http://cc90.one/WHK" group-title="Canais | Filmes e Séries",TLC [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30229.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD][H265]" tvg-logo="http://cc90.one/WHK" group-title="Canais | Filmes e Séries"
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [HD]" tvg-logo="http://cc90.one/AQJ" group-title="Canais | Filmes e Séries",TLC [HD]
 http://cdc77.cc:80/9146479502/16693/314.ts
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [SD]" tvg-logo="http://cc90.one/ARG" group-title="Canais | Filmes e Séries",TLC [SD]
 http://cdc77.cc:80/9146479502/16693/340.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://cc90.one/AOL" group-title="Canais | Esportes",ESPN 2 [HD]
+http://cdc77.cc:80/9146479502/16693/261.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [SD]" tvg-logo="http://cc90.one/AOQ" group-title="Canais | Esportes",ESPN 2 [SD]
+http://cdc77.cc:80/9146479502/16693/267.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://cc90.one/AOI" group-title="Canais | Esportes",ESPN 3 [HD]
+http://cdc77.cc:80/9146479502/16693/258.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://cc90.one/AOR" group-title="Canais | Esportes",ESPN 3 [SD]
+http://cdc77.cc:80/9146479502/16693/268.ts
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ [HD]" tvg-logo="http://cc90.one/ASY" group-title="Canais | Globo Capital",GLOBO RJ [HD]
+http://cdc77.cc:80/9146479502/16693/392.ts
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ [SD]" tvg-logo="http://cc90.one/AUC" group-title="Canais | Globo Capital",GLOBO RJ [SD]
+http://cdc77.cc:80/9146479502/16693/427.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Miraculous As Aventuras de Ladybug" tvg-logo="http://cc90.one/CVG0" group-title="Canais | 24 Horas",[24H] Miraculous As Aventuras de Ladybug
+http://cdc77.cc:80/9146479502/16693/227815.ts
+
+
+
 
 
