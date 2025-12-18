@@ -1,0 +1,46 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://cc90.one/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://cdc77.cc:80/9146479502/16693/179.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://cc90.one/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
+http://cdc77.cc:80/9146479502/16693/194.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [HD]" tvg-logo="http://cc90.one/AKC" group-title="Canais | Infantis",CARTOON NETWORK [HD]
+http://cdc77.cc:80/9146479502/16693/139.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [SD]" tvg-logo="http://cc90.one/AKM" group-title="Canais | Infantis",CARTOON NETWORK [SD]
+http://cdc77.cc:80/9146479502/16693/151.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL [HD]" tvg-logo="http://cc90.one/ALO" group-title="Canais | Documentários",DISCOVERY CHANNEL [HD]
+http://cdc77.cc:80/9146479502/16693/181.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL [SD]" tvg-logo="http://cc90.one/WJK" group-title="Canais | Documentários",DISCOVERY CHANNEL [SD]
+http://cdc77.cc:80/9146479502/16693/196.ts
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH [HD]" tvg-logo="http://cc90.one/VYU" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [HD]
+http://cdc77.cc:80/9146479502/16693/183.ts
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH [SD]" tvg-logo="http://cc90.one/AMD" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [SD]
+http://cdc77.cc:80/9146479502/16693/198.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="DISCOVERY KIDS [FHD]" tvg-logo="http://cc90.one/AJQ" group-title="Canais | Infantis",DISCOVERY KIDS [FHD]
+http://cdc77.cc:80/9146479502/16693/127.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="http://cc90.one/AKD" group-title="Canais | Infantis",DISCOVERY KIDS [HD]
+http://cdc77.cc:80/9146479502/16693/140.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="DISCOVERY KIDS [SD]" tvg-logo="http://cc90.one/AKN" group-title="Canais | Infantis",DISCOVERY KIDS [SD]
+http://cdc77.cc:80/9146479502/16693/152.ts
+#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [HD]" tvg-logo="http://cc90.one/AQN" group-title="Canais | Filmes e Séries",WARNER CHANNEL [HD]
+http://cdc77.cc:80/9146479502/16693/319.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.br" tvg-name="WARNER CHANNEL [SD]" tvg-logo="http://cc90.one/ARL" group-title="Canais | Filmes e Séries",WARNER CHANNEL [SD]
+http://cdc77.cc:80/9146479502/16693/345.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [HD]" tvg-logo="http://cc90.one/AQJ" group-title="Canais | Filmes e Séries",TLC [HD]
+http://cdc77.cc:80/9146479502/16693/314.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [SD]" tvg-logo="http://cc90.one/ARG" group-title="Canais | Filmes e Séries",TLC [SD]
+http://cdc77.cc:80/9146479502/16693/340.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://cc90.one/AOL" group-title="Canais | Esportes",ESPN 2 [HD]
+http://cdc77.cc:80/9146479502/16693/261.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [SD]" tvg-logo="http://cc90.one/AOQ" group-title="Canais | Esportes",ESPN 2 [SD]
+http://cdc77.cc:80/9146479502/16693/267.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://cc90.one/AOI" group-title="Canais | Esportes",ESPN 3 [HD]
+http://cdc77.cc:80/9146479502/16693/258.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://cc90.one/AOR" group-title="Canais | Esportes",ESPN 3 [SD]
+http://cdc77.cc:80/9146479502/16693/268.ts
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ [HD]" tvg-logo="http://cc90.one/ASY" group-title="Canais | Globo Capital",GLOBO RJ [HD]
+http://cdc77.cc:80/9146479502/16693/392.ts
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ [SD]" tvg-logo="http://cc90.one/AUC" group-title="Canais | Globo Capital",GLOBO RJ [SD]
+http://cdc77.cc:80/9146479502/16693/427.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Miraculous As Aventuras de Ladybug" tvg-logo="http://cc90.one/CVG0" group-title="Canais | 24 Horas",[24H] Miraculous As Aventuras de Ladybug
+http://cdc77.cc:80/9146479502/16693/227815.ts
