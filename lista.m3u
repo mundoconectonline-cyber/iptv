@@ -1,56 +1,31 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET [FHD]" tvg-logo="http://cc90.one/AKY" group-title="Canais | Documentários",ANIMAL PLANET [FHD]
-http://cdc77.cc:80/9146479502/16693/164.ts
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://cc90.one/WHO" group-title="Canais | Documentários",ANIMAL PLANET [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30248.ts
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://cc90.one/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
 http://cdc77.cc:80/9146479502/16693/179.ts
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://cc90.one/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
 http://cdc77.cc:80/9146479502/16693/194.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [FHD]" tvg-logo="http://cc90.one/AJP" group-title="Canais | Infantis",CARTOON NETWORK [FHD]
-http://cdc77.cc:80/9146479502/16693/126.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [FHD][H265]" tvg-logo="http://cc90.one/WHT" group-title="Canais | Infantis",CARTOON NETWORK [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30268.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [HD]" tvg-logo="http://cc90.one/AKC" group-title="Canais | Infantis",CARTOON NETWORK [HD]
 http://cdc77.cc:80/9146479502/16693/139.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [SD]" tvg-logo="http://cc90.one/AKM" group-title="Canais | Infantis",CARTOON NETWORK [SD]
 http://cdc77.cc:80/9146479502/16693/151.ts
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL [FHD]" tvg-logo="http://cc90.one/ALA" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD]
-http://cdc77.cc:80/9146479502/16693/166.ts
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://cc90.one/WJX" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30260.ts
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL [HD]" tvg-logo="http://cc90.one/ALO" group-title="Canais | Documentários",DISCOVERY CHANNEL [HD]
 http://cdc77.cc:80/9146479502/16693/181.ts
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL [SD]" tvg-logo="http://cc90.one/WJK" group-title="Canais | Documentários",DISCOVERY CHANNEL [SD]
 http://cdc77.cc:80/9146479502/16693/196.ts
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH [FHD]" tvg-logo="http://cc90.one/ALC" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [FHD]
-http://cdc77.cc:80/9146479502/16693/168.ts
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH [HD]" tvg-logo="http://cc90.one/VYU" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [HD]
 http://cdc77.cc:80/9146479502/16693/183.ts
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH [SD]" tvg-logo="http://cc90.one/AMD" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [SD]
 http://cdc77.cc:80/9146479502/16693/198.ts
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME&HEALTH [FHD][H265]" tvg-logo="http://cc90.one/VYV" group-title="Canais | Documentários",DISCOVERY HOME&HEALTH [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30254.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="DISCOVERY KIDS [FHD]" tvg-logo="http://cc90.one/AJQ" group-title="Canais | Infantis",DISCOVERY KIDS [FHD]
 http://cdc77.cc:80/9146479502/16693/127.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="Discovery Kids [FHD][H265]" tvg-logo="http://cc90.one/WHU" group-title="Canais | Infantis",Discovery Kids [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30269.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="http://cc90.one/AKD" group-title="Canais | Infantis",DISCOVERY KIDS [HD]
 http://cdc77.cc:80/9146479502/16693/140.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-name="DISCOVERY KIDS [SD]" tvg-logo="http://cc90.one/AKN" group-title="Canais | Infantis",DISCOVERY KIDS [SD]
 http://cdc77.cc:80/9146479502/16693/152.ts
-#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [FHD]" tvg-logo="http://cc90.one/APT" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD]
-http://cdc77.cc:80/9146479502/16693/297.ts
-#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [FHD][H265]" tvg-logo="http://cc90.one/WJP" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD][H265]
-http://cdc77.cc:80/9146479502/16693/30226.ts
 #EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [HD]" tvg-logo="http://cc90.one/AQN" group-title="Canais | Filmes e Séries",WARNER CHANNEL [HD]
 http://cdc77.cc:80/9146479502/16693/319.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.br" tvg-name="WARNER CHANNEL [SD]" tvg-logo="http://cc90.one/ARL" group-title="Canais | Filmes e Séries",WARNER CHANNEL [SD]
 http://cdc77.cc:80/9146479502/16693/345.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD]" tvg-logo="http://cc90.one/APJ" group-title="Canais | Filmes e Séries",TLC [FHD]
-http://cdc77.cc:80/9146479502/16693/286.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD][H265]" tvg-logo="http://cc90.one/WHK" group-title="Canais | Filmes e Séries"
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [HD]" tvg-logo="http://cc90.one/AQJ" group-title="Canais | Filmes e Séries",TLC [HD]
 http://cdc77.cc:80/9146479502/16693/314.ts
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [SD]" tvg-logo="http://cc90.one/ARG" group-title="Canais | Filmes e Séries",TLC [SD]
